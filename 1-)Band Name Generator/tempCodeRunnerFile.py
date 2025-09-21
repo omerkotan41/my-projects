@@ -1,1 +1,0 @@
-input("How many words do you want your Band Name to consist of? \n")
